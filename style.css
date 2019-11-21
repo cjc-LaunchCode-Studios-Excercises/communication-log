@@ -1,6 +1,10 @@
 body {
     color: white;
     background-color: black;
+<<<<<<< HEAD
     font-family: 'Satisfy', cursive;
     margin: 5em 25%;
+=======
+    font-size: 32px;
+>>>>>>> 0fe564aaf85cff0a307f02e0581c6cd57ff6b6cf
  }
